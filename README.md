@@ -7,3 +7,8 @@ npm install
 # or
 yarn install
 ```
+
+### Run
+```
+npm start
+```
